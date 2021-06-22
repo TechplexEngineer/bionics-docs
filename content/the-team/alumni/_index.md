@@ -1,5 +1,5 @@
 ---
-title: Senior Spotlight
+title: Alumni
 description: Team 4909 Alumni
 ---
 
