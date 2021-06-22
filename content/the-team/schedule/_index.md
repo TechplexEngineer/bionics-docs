@@ -27,6 +27,10 @@ Usually the team does not meet.
 A rough list of events and happenings in each of the blocks.
 
 ### Preseason
+- Parent Meeting
+    + Mandatory meeting for new and returning members
+    + Discuss Friends of 4909 fundraiser
+    + Corporate Sponsorships
 - Yankee Doodle parade
 - Trainings
     + Tool Training
