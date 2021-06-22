@@ -1,5 +1,7 @@
 ---
 title: Student Leadership Roles
+description: Student Leadership Roles
+date: 2021-06-22T18:10:40.751Z
 ---
 
 
@@ -43,7 +45,7 @@ graph TD
 
 
 ## Leadership Roles
-Leadership roles are mentor assigined with input from the team via a secret ballot poll. The mentors work to make the best selections for the success of the team. The mentors take many aspects into account, including attentance from the prior season. 
+Leadership roles are mentor assigned with input from the team via a secret ballot poll. The mentors work to make the best selections for the success of the team. The mentors take many aspects into account, including attendance from the prior season. 
 
 ### Robot Lead(s)
 Work closely with build leads to ensure their designs are well integrated, buildable, maintainable and robust. Robot Project Management, structure, schedule and execute.
