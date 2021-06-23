@@ -35,3 +35,7 @@ _Required for all robot design and mechanical team members_
 ### Using MKCAD Part Library
 - [Step-by-step guide by Julia](https://www.chiefdelphi.com/t/the-mkcad-app/392654)
 - [Direct Link to OnShape App Store](https://appstore.onshape.com/apps/Manufacturers%20Models/2ZT7X5D646R3LM3ZND7LGBTYRVM4SVH6CDDGM6I=/description)
+
+
+### Previous CAD Challenges
+- [Drivetrain](https://docs.google.com/document/d/162gdpaHj7e8OKeKLlp6TSlqNqyEVEP8npY4_HekA9Yw/edit)
