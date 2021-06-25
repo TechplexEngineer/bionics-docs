@@ -10,8 +10,8 @@
    inkscape:version="1.1 (c68e22c387, 2021-05-23)"
    sodipodi:docname="team-4909-logo.svg"
    inkscape:export-filename="/home/techplex/projects/pers/bionics-docs/content/the-team/branding/team-4909-logo.png"
-   inkscape:export-xdpi="1.91"
-   inkscape:export-ydpi="1.91"
+   inkscape:export-xdpi="213.88"
+   inkscape:export-ydpi="213.88"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -22,23 +22,40 @@
      bordercolor="#666666"
      borderopacity="1.0"
      inkscape:pageshadow="2"
-     inkscape:pageopacity="0.0"
-     inkscape:pagecheckerboard="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="true"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="0.73940797"
-     inkscape:cx="186.6358"
-     inkscape:cy="409.78731"
+     inkscape:zoom="1.4788159"
+     inkscape:cx="406.40622"
+     inkscape:cy="152.82497"
      inkscape:window-width="1920"
      inkscape:window-height="1016"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g15896"
      units="in"
      width="8in" />
   <defs
      id="defs2">
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect1512"
+       is_visible="true"
+       lpeversion="1"
+       satellites_param="C,0,0,1,0,16.404167,0,1 @ C,0,0,1,0,16.404167,0,1 @ C,0,0,1,0,16.404167,0,1 @ C,0,0,1,0,16.404167,0,1"
+       unit="px"
+       method="auto"
+       mode="C"
+       radius="62"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
     <inkscape:path-effect
        effect="fillet_chamfer"
        id="path-effect15792"
@@ -64,17 +81,37 @@
     <g
        id="g15896"
        transform="translate(-8.0739197,-41.329009)">
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:50.8px;line-height:1.25;font-family:sans-serif;fill:#0d663a;fill-opacity:1;stroke:none;stroke-width:0.264583"
-         x="25.523808"
-         y="107.44521"
-         id="text2409"><tspan
-           sodipodi:role="line"
-           id="tspan2407"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50.8px;font-family:BatmanForeverAlternate;-inkscape-font-specification:BatmanForeverAlternate;fill:#0d663a;fill-opacity:1;stroke-width:0.264583"
-           x="25.523808"
-           y="107.44521">4909</tspan></text>
+      <path
+         style="fill:#ffffff;fill-opacity:1;stroke:#0d663a;stroke-width:3.175;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect15602-3"
+         width="186.84064"
+         height="60.573494"
+         x="16.253601"
+         y="61.84227"
+         inkscape:path-effect="#path-effect1512"
+         sodipodi:type="rect"
+         d="M 32.657768,61.84227 H 186.69007 l 16.40417,16.404167 0,27.765163 -16.40417,16.40416 H 32.657768 L 16.253601,106.0116 V 78.246437 Z" />
+      <g
+         aria-label="4909"
+         id="text2409"
+         style="font-size:50.8px;line-height:1.25;fill:#0d663a;stroke-width:0.264583">
+        <path
+           d="m 54.987807,89.106414 v -5.6896 l -14.1224,5.6896 z m 0,-11.938 8.9916,-0.0508 v 30.022796 h -8.9916 V 95.202414 h -24.892 l -4.571999,-6.096 z"
+           style="font-family:BatmanForeverAlternate;-inkscape-font-specification:BatmanForeverAlternate"
+           id="path1447" />
+        <path
+           d="m 107.261,97.894813 -6.8072,9.194797 H 68.754597 l 6.6548,-6.6548 h 19.761199 l 2.1336,-2.539997 V 95.151614 H 75.307797 l -6.5532,-8.8392 6.8072,-9.1948 H 100.4538 l 6.8072,9.1948 z m -9.956804,-8.839199 v -2.7432 l -2.1336,-2.4892 H 80.844997 l -2.1844,2.4892 2.1844,2.7432 z"
+           style="font-family:BatmanForeverAlternate;-inkscape-font-specification:BatmanForeverAlternate"
+           id="path1449" />
+        <path
+           d="m 150.49171,100.33321 -6.8072,6.8072 h -24.9428 l -6.8072,-6.8072 V 84.026414 l 6.8072,-6.8072 h 24.9428 l 6.8072,6.8072 z m -9.0424,0.1524 V 83.874014 h -20.4724 v 16.611596 z"
+           style="font-family:BatmanForeverAlternate;-inkscape-font-specification:BatmanForeverAlternate"
+           id="path1451" />
+        <path
+           d="m 193.82403,97.894813 -6.8072,9.194797 h -31.6992 l 6.6548,-6.6548 h 19.7612 l 2.1336,-2.539997 v -2.743199 h -21.9964 l -6.5532,-8.8392 6.8072,-9.1948 h 24.892 l 6.8072,9.1948 z m -9.9568,-8.839199 v -2.7432 l -2.1336,-2.4892 h -14.3256 l -2.1844,2.4892 2.1844,2.7432 z"
+           style="font-family:BatmanForeverAlternate;-inkscape-font-specification:BatmanForeverAlternate"
+           id="path1453" />
+      </g>
       <path
          style="fill:none;fill-opacity:1;stroke:#0d663a;stroke-width:3.175;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="rect15602"
