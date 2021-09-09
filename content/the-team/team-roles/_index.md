@@ -59,28 +59,7 @@ Software is what separates GOOD teams from GREAT teams. The software lead works 
 ### Build Leads
 There would be multiple build leads, one per major subsystem (for example: Drivetrain, Elevator, Manipulator, Climber) who work with a team of 3-5 team members and a mentor to design and build and integrate their subsystem with the other subsystems.
 
-## Supporting Roles
-These roles encompass many of the responsibilities that are needed for a successful build and competition season.
 
-### Equipment Manager
-Can't build a robot without tools. This person keeps track of what tools we have, tooling for the CNC machines and broken tools needing replacement. Ensures that the toolbox is prepared for competitions. 
-
-### Ordering/Sourcing Manager
-Organize the ordering process. As build leads determine parts needed, generate an order sheet and let the mentors know when orders are ready to be placed. Oversees pre-season inventory to inform ordering decisions to ensure sufficient raw materials available to build competitive robots.
-
-### Competition & Logistics Manager
-This person works closely with the Equipment Manager and the Pit Crew to ensure the team is ready for competitions which includes:
-Packing Robot, Tools and spare parts
-- Team members have appropriate paperwork turned in (field trip forms, STIMS, etc.)
-- Team participation at events
-- Team Roster for events
-
-
-### CAD Manager
-Keep the CAD organized, periodically create version restore points. Leading CAD training in the pre-season. Ensuring best naming and design practices are followed.
-
-### Game Piece Construction Manager
-Every year FIRST releases a set of team drawings. We have been fortunate to have fantastic mentors build the game pieces. This person works with the team constructing the game pieces to determine what subset of the full set of game pieces are needed given the robot design choices.
 
 ## Competition Roles
 At competition some team members have additional responsibilities.
