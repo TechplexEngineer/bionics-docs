@@ -44,3 +44,12 @@ description: Videos that feed the curious
 ## Scouting & Match Strategy 
 (Karthik Kanagasabapathy 1114 Simbotics)
 {{<youtube l8syuYnXfJg>}}
+  
+## Types of Drill Bits
+(Adam Savage)
+{{<youtube vetc7rEYnjI>}}
+  
+## Tapping
+(Adam Savage)
+{{<youtube XVEww6Ylw5c>}}
+  XVEww6Ylw5c
