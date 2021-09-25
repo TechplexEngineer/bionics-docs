@@ -12,8 +12,8 @@ Our laser cutters have a maximum working area of 24" by 18"
 
 ### Design and Export
 1. Design the prototype in OnShape
-2. Create a drawing without a border nor titleblock {{< expand "Show Me..." >}}
 
+2. Create a drawing without a border nor titleblock {{< expand "Show Me..." >}}
 1. Right click on any part in the parts list, choose **Create Drawing** ![](onshape-create-drawing.png)
 2. Choose Custom Template ![](onshape-drawing-custom-template.png)
 3. Choose "Do not include" for both **Border** and **Titleblock**, click **Ok** ![](onshape-drawing-do-not-include.png)
@@ -80,10 +80,10 @@ The following steps assume you are on a computer connected to the laser
 
 ### Set Cutting and Engraving speeds
 
-6. Open the PDF with Adobe Acrobat Reader
-7. File > Print
-8. Select the Epilog Laser from the list of printers
-9. Click Properties to open the laser configuration window
+1. Open the PDF with Adobe Acrobat Reader
+2. File > Print
+3. Select the Epilog Laser from the list of printers
+4. Click Properties to open the laser configuration window
 ![](epilog-laser-config.png)
     - 1 - Be sure **Auto Focus** is selected
     - 2 - **Combined** is sufficient unless you want to be sure to only do one type of operation (vector=cut and raster=engrave)
@@ -95,12 +95,12 @@ The following steps assume you are on a computer connected to the laser
 Consult the [Laser Material Settings](/equipment/cnc/epilog-helix-laser/laser-material-settings.pdf) or the abbreviated table below for our 60W, CO2 Laser determine your power, speed and frequency/DPI for your material. {{%excerpt-include filename="/equipment/cnc/epilog-helix-laser/laser-material-settings.md" /%}}
 
 ### Power on, Load Material and Cut/Engrave
-10. Turn On the Laser, Air Assist and Fume Extraction
+5. Turn On the Laser, Air Assist and Fume Extraction
     1. Laser Power: Switch on Left side
     2. Air Assist: Switch on compressor pump 
     3. Fume Extraction: Time Dial on wall (takes ~30 secs to start)
 
-11. Place your material in the upper left of the laser engraver bed
+6. Place your material in the upper left of the laser engraver bed
 
 {{% notice danger %}}
 You should hear loud hissing and fan whirring sounds! If not: Stop and ask for help!
