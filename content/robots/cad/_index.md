@@ -13,3 +13,4 @@ alwaysopen: false
 * [Belt](https://cad.onshape.com/documents/57886eace4b0e425c1ef548a/w/54f180f432defb41a8fddb17/e/c65e445e89ee373617edc394)
 * [Beams](https://cad.onshape.com/documents/e15c2c668d138f01242d0c80/v/e7d9930924641419bec2eabd/e/bd6831589391741e327fec75) - [Getting started with beams](https://learn.onshape.com/learn/article/getting-started-with-beams)
 * [Part Number Featurescript](https://cad.onshape.com/documents/443e443bb2a37736743bf314/w/6539c7379d36307a6a2cc01d/e/333b812d1198192edc1eea09) - [CD Thread](https://www.chiefdelphi.com/t/automated-part-number-featurescript/385163/6)
+* [Auto Layout](https://cad.onshape.com/documents/3b3bb87c95d03259328fdb1f/w/9828ddc941ddc2896ebeebdb/e/fcecc760e1bc713ee3aae876)
