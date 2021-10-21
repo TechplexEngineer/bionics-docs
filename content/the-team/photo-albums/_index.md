@@ -3,6 +3,10 @@ title: Photo Albums
 description: Team Photo Albums
 ---
 
+## 2021 - Rapid React
+- [Yankee Doodle](https://photos.app.goo.gl/d2UMizKwHkykL3jV9)
+- [Preseason](https://photos.app.goo.gl/mnXAjcovJr3xpLTQ7)
+
 ## 2021 - Infinite Recharge v2
 - [Preseason](https://photos.app.goo.gl/R8RYvWZveXehZe53A)
 - [Build Season](https://photos.app.goo.gl/xfF2GpdJiGmouwkC9)
