@@ -8,13 +8,21 @@ Team4909 has chosen to standardize on using OnShape for designs and Fusion 360 f
 Onshape CAD links for all of our robots. 2018 was the first year we were all in on Onshape.
 
 - [2021 - Infinite Recharge v2   ][8]
+    + First robot with Differential Swerve Drivetrain designed in OnShape
 - [2020 - Infinite Recharge      ][7]
+    + First robot with student led design, custom gearboxes
 - [2019 - Deep Space - Apollo    ][6]
+    + First robot mostly designed in OnShape before manufactuing started, with custom drivetrain
 - [2018 - Power Up - Lil'Mac     ][5]
+    + First robot Designed fully in OnShape
 - [2017 - Stemworks - Boxtop     ][4]
+    + First robot partially Designed in OnShape
 - [2016 - Stronghold - June      ][3]
+    + Designed in PTC Creo
 - [2015 - Recycle Rush - Kevin   ][2]
+    + Designed in PTC Creo
 - [2014 - Aerial Assist - Mercury][1]
+    + Team first robot. Designed in PTC Creo
 
 [8]: https://cad.onshape.com/documents/1333577c52d5bda83cdec384/w/aced563e40d2317111d846f2/e/29358233ad7273268ceac6a5
 [7]: https://cad.onshape.com/documents/8b19f502e1ddef15686d8077/w/ba37da7fc5b13ce79a4a1875/e/9f0992d2d272a76eee69125a
