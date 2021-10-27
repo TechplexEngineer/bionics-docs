@@ -8,9 +8,6 @@ subpage: false
 alwaysopen: false
 ---
 
-## Various Lathe Tools
-![](types-of-tools.png)
-[Source](http://mechanicstips.blogspot.com/2016/04/turning-tool-holder-system.html)
 
 ## Tools we have
 
@@ -31,6 +28,9 @@ alwaysopen: false
 [Source](https://tormach.com/3-piece-stfcr-boring-bar-set-33142.html)
 
 
+## Various Lathe Tools
+![](types-of-tools.png)
+[Source](http://mechanicstips.blogspot.com/2016/04/turning-tool-holder-system.html)
 
-All possible tools
+![](lathe-tools-cutting-shapes.jpg)
 
