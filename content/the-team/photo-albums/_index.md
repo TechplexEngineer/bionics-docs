@@ -4,6 +4,10 @@ description: Team Photo Albums
 ---
 
 ## 2021 - Rapid React
+- [Battle Of the Bay 7 / NH Governor's Cup](https://photos.app.goo.gl/4QcgzKpc1abTeSRY8)
+- [Battle Of the Bay 7 - 4909 Match Videos](https://www.youtube.com/watch?v=qi_mAFbvMIE&list=PLlKTcxHFcdxu7LivwutIC0TLdUdl14rtZ)
+- [River Rage 24](https://photos.app.goo.gl/82AUm14fRjBzUXeZA)
+- [River Rage 24 - 4909 Match Videos](https://www.youtube.com/watch?v=s1ETTantCUg&list=PLlKTcxHFcdxvvfFMzldmjk62qME-dEMP8)
 - [Yankee Doodle](https://photos.app.goo.gl/d2UMizKwHkykL3jV9)
 - [Preseason](https://photos.app.goo.gl/mnXAjcovJr3xpLTQ7)
 
