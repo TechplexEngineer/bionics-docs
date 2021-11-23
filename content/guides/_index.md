@@ -1,5 +1,5 @@
 ---
-title: Guides
+title: Manufacturing Guides
 weight: 3
 ---
 

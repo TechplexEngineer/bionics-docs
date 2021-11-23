@@ -1,5 +1,5 @@
 ---
-title: Equipment
+title: Equipment Reference
 weight: 2
 ---
 
