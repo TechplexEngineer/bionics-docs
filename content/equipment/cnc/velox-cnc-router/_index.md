@@ -19,6 +19,7 @@ date: 2021-05-10T13:29:34.714Z
 ## How to use
 
 * [CAM in Fusion 360](/guides/intro-to-cam/)
+* Network Drive `\\veloxrouter\gcode` [How to map a network drive](/guides/map-a-network-drive/)
 
 ## Additional Resources
 
