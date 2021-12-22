@@ -1,6 +1,7 @@
 ---
 title: Tormach PCNC 440 CNC Mill
 description: 3 axis CNC mill with Automatic Tool Changer
+date: 2021-12-22T22:30:30.137Z
 ---
 
 {{% figure src="tormach-pcnc-440.png" class="float-right" %}}
@@ -19,6 +20,7 @@ description: 3 axis CNC mill with Automatic Tool Changer
 ## How to use:
 - [CAM in Fusion 360](/guides/cam-intro-fusion-360/)
 - Conversational CAM on [PathPilot PC](https://hub.pathpilot.com/)
+* Network Drive `\\tormachpcnc\gcode` [How to map a network drive](/guides/map-a-network-drive/)
 
 ## Additional Resources
 - [Vendor Product Page][1]
