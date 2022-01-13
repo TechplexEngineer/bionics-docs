@@ -5,32 +5,34 @@ description: Team Branding Guidelines
 
 Our team strives for consistent imaging and branding across all of our marketing and outreach materials.
 
-## The Team Logo
+BMHS Green: #154733
 
-### Slim Logo
-![](team-4909-logo.svg)
+Font: JAF Mashine Semibold https://fonts.adobe.com/fonts/jaf-mashine
 
-- [SVG Download](team-4909-logo.svg)
-- [PNG Download](team-4909-logo.png)
+## Logo
+![](Logo.png)
 
-### Full Logo
-![](full-logo.png)
+- [SVG Download](Logo.svg)
+- [PNG Download](Logo.png)
+- [PDF Download](Logo.pdf)
 
-- [PNG Download](full-logo.png)
+## Logo Inverse (White Background)
+![](Logo_Inverse.png)
 
+- [SVG Download](Logo_Inverse.svg)
+- [PNG Download](Logo_Inverse.png)
+- [PDF Download](Logo_Inverse.pdf)
 
-## Team Font
-Batman Forever
-- [Regular](batman-forever.ttf)
-- [Outline](batman-forever-outline.ttf)
+## Billerica Bionics
+![](Billerica_Bionics.png)
 
-## Team Avatar
-The avatar is submitted to first for use as part of the event scoreboard.
+- [SVG Download](Billerica_Bionics.svg)
+- [PNG Download](Billerica_Bionics.png)
+- [PDF Download](Billerica_Bionics.pdf)
 
-![](4909_avatar.png)
-- [PNG Download](4909_avatar.png)
+## 4909
+![](4909.png)
 
-## School Logo
-
-![](bmhs-crest.png)
-- [PNG Download](bmhs-crest.png)
+- [SVG Download](4909.svg)
+- [PNG Download](4909.png)
+- [PDF Download](4909.pdf)
