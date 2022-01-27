@@ -19,6 +19,8 @@ title: Footer
 - [PID without PhD](https://drive.google.com/file/d/0B8Oix1YVtSZgUW1sd3dOOFVzdXc/view)
 - [610 Design Tutorials](http://www.team610.com/wp-content/uploads/2014/03/Design-TutorialsRev10.pdf)
 - [FRC Survival Guide](https://www.chiefdelphi.com/t/paper-the-frc-survival-guide-v3-1/340825)
+- [Game Manual 0](https://gm0.org/)
+- [FRC 167 Iowa City Robotics Docs](https://docs.iowacityrobotics.org/)
 {{</columns>}}
 
 &copy; [Billerica Bionics](https://team4909.org) -
