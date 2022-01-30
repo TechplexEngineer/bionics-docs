@@ -16,3 +16,5 @@ Avoid using batteries above .015 internal resistance [Source](https://www.chiefd
 
 [Team 900 Battery Upgrade Whitepaper](team_900_battery_upgrade_whitepaper.pdf)
 [Source](https://www.chiefdelphi.com/t/paper-frc-battery-upgrade/161532)
+
+[paper: Using 4 AWG with the Anderson SB50](https://www.chiefdelphi.com/t/paper-using-4-awg-with-the-anderson-sb50/164652)
