@@ -6,6 +6,10 @@ weight: 100
 
 Based on the inspiration of the [Killer Bees Battery Cart](https://www.chiefdelphi.com/t/killer-bees-frc-battery-cart/389013) we designed and built a wheeled parts storage cart.
 
+Based on the recommendation of this [Chief Delphi thread](https://www.chiefdelphi.com/t/2020-best-parts-organizer-bins/389240/4) we have standardized on the Stanley Pro Organizer bins:
+- Shallow [(25-Compartment Shallow Pro Small Parts Organizer)](https://www.homedepot.com/p/Stanley-25-Compartment-Shallow-Pro-Small-Parts-Organizer-014725R/203707065)
+- Deep [10-Compartment Deep Pro Small Parts Organizer](https://www.homedepot.com/p/Stanley-10-Compartment-Deep-Pro-Small-Parts-Organizer-STST14710/309701462)
+
 This guide provides build instructions for making your very own parts organizer rack for your robotics team. This design is made of plywood, properly gluing all joints is critically important.
 
 The organizer has space for 17 shallow organizers or 8 deep organizers and 1 shallow. Depending on how part are organized parts one can mix and match small and large organizers.
