@@ -4,9 +4,9 @@ description: Desigining Bumpers with OnShape
 ---
 
 
-1. Start with a top down sketch for the 3/4" plywood
+1. Start with a top down sketch for the 3/4" plywood (Leave at least 1/16 space around the frame to make it easy to take the bumpers on and off.) 
 ![](1-master-sketch.png) 
-2. Extrude the pieces to 5 inches tall
+2. Extrude the pieces to 5 inches tall. Hint use the Extrude Individual featurescript.
 ![](2-extrude-individual.png) 
 3. Draw a sketch on the end of one of the pieces of plywood with the 2.5" circles for the pool noodles with the outer profile being in the shape of a D.
 ![](3-bumper-profile.png) 
