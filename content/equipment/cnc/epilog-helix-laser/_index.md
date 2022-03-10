@@ -22,6 +22,8 @@ This machine is capable of rapidly cutting out complex two-dimensional geometry 
 ## How to use
 Drawing sheets from CAD can be "printed" to the printer from Illustrator (No CAM required)
 
+[Running Laser Cutter]({{< relref "laser-cutter-intro" >}})
+
 ## Approved Materials:
 - Plywood
 - Acrylic
