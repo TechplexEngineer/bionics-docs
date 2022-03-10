@@ -1,8 +1,8 @@
 ---
-title: Manufacturing Guides
+title: Guides
 weight: 3
 ---
 
-Tutorials and Intros to help us leverage our Equiptment.
+Tutorials and Intros to help us leverage our Equipment.
 
 {{% children description="true" %}}
