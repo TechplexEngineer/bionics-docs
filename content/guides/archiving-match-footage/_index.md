@@ -17,5 +17,5 @@ description: How to save match footage from twitch streams
 	2. Use FFMPEG to join the files specified by list.txt 
 	{{< highlight bash>}}ffmpeg -f concat -safe 0 -i list.txt -c copy output.mp4{{</highlight>}}
 
-3. Use FRC Video Splitter to spit matches
+3. Use [FRC Video Splitter](https://github.com/tytremblay/frc-video-splitter-3/releases) to spit matches
 4. Upload to youtube 
