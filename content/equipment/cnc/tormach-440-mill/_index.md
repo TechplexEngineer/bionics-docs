@@ -10,8 +10,8 @@ date: 2021-12-22T22:30:30.137Z
 - Work Area
 |                |         |           |
 | -------------- | ------- | --------- |
-| X (left-right) | 12.0 in | 254 mm    |
-| Y (front-back) | 6.25 in | 158.75 mm |
+| X (left-right) | 10 in ~~12.0 in~~ | 254 mm    |
+| Y (front-back) | 6 in ~~6.25 in~~ | 158.75 mm |
 | Z (up-down)    | 10.0 in | 254 mm    |
 - Automatic Tool Changer with 8 Stations
 - Spindle Speed: 10k RPM max

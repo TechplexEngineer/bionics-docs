@@ -8,3 +8,6 @@ We strive to build a robust Compeditive Robotics Program by leveragin student to
 Each pre-season we attempt to bring new members up to speed and build skills in returning members.
 
 {{<children depth=4 description="">}}{{</children>}}
+
+Crash Course in Design:
+https://www.instructables.com/How-to-Build-your-Everything-Really-Really-Fast/
