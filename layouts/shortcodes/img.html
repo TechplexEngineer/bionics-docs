@@ -1,0 +1,7 @@
+
+{{ $imagename := (.Get 0) }}
+{{ $heightpx := .Get 1 }}
+
+<a href="{{$imagename}}">
+	<img src="{{$imagename}}?height={{$heightpx}}px&classes=border,shadow">
+</a>
