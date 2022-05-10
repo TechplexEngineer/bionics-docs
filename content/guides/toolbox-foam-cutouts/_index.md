@@ -34,6 +34,9 @@ description: How to Make precise cutouts for toolbox organization
 07. Copy the tool selection and paste in Inkscape. Repeat for all tools, create a layout matching your rough layout from step 1.
 {{< img "07_layout_in_inkscape.svg" "400" >}}
 
+08. Use the Width and Height toolbar in Inkscape to ensure your tool is the proper size using the measurements from earlier. Be sure to click the lock icon to ensure the with and height aspect ratio is maintained.
+{{< img "08a_resize.png" >}}
+
 08. Use Inkscape's bitmap trace function to convert the tools to vector paths.
 {{< img "08_bitmap_trace_menu.png" "400">}}
 
