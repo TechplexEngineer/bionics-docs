@@ -45,4 +45,4 @@ We need our sheet size to match the size of our stock material.
 
 The SVG file can be cut with the laser cutter. The Laser Cutter Intro guide describes the cutting process in detail.
 
-32. [Next Steps](guides/laser-cutter-intro/#preparing-the-file)
+32. [Next Steps](/guides/laser-cutter-intro/#preparing-the-file)
