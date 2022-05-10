@@ -17,7 +17,7 @@ git clone --recursive git@github.com:TechplexEngineer/bionics-docs.git
 ```
 If you've already cloned, you can fetch the submodules with
 ```bash
-git submodules update --init
+git submodule update --init
 ```
 ### Hugo
 Hugo is needed to build the site. Follow the [quickstart guide here](https://gohugo.io/getting-started/quick-start/).
