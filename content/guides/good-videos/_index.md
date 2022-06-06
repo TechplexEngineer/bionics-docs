@@ -3,10 +3,9 @@ title: Good Videos
 description: Videos that feed the curious
 ---
 
-## The Essence of Calculus Series
-(3Blue1Brown)
-{{<youtube WUvTyaaNkzM>}}
-[Complete Playlist](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
+## 4-Bar Linkage Intake
+(Nick Aarestad)
+{{<youtube QsAC_seQHJY>}}
 
 ## FRC Strategic Design 
 (Karthik Kanagasabapathy 1114 Simbotics)
@@ -19,11 +18,6 @@ description: Videos that feed the curious
 ### 2015 Version
 (Karthik Kanagasabapathy 1114 Simbotics)
 {{<youtube 4ysSvxR-tAs>}}
-
-## Crash Course: Physics
-{{<youtube ZM8ECpBuQYE>}}
-[Complete Playlist](https://www.youtube.com/playlist?list=PL8dPuuaLjXtN0ge7yDk_UA0ldZJdhwkoV)
-
 
 ## Simple Thinking
 (Adam Heard 971 Spartian Robotics)
@@ -52,4 +46,12 @@ description: Videos that feed the curious
 ## Tapping
 (Adam Savage)
 {{<youtube XVEww6Ylw5c>}}
-  XVEww6Ylw5c
+
+## Crash Course: Physics
+{{<youtube ZM8ECpBuQYE>}}
+[Complete Playlist](https://www.youtube.com/playlist?list=PL8dPuuaLjXtN0ge7yDk_UA0ldZJdhwkoV)
+
+## The Essence of Calculus Series
+(3Blue1Brown)
+{{<youtube WUvTyaaNkzM>}}
+[Complete Playlist](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
