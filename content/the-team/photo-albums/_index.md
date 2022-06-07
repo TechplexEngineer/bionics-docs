@@ -10,6 +10,7 @@ description: Team Photo Albums and Match Videos
 - [Week 0 Photos](https://photos.app.goo.gl/5WRWNa7XaW8ywNvb8)
 - [Week 1 - Granite State District (March 3-5) Photos](https://photos.app.goo.gl/NFuJxfrbKAHH4spd8)
 - [Week 1 - Granite State District (March 3-5) 4909 Match Videos](https://www.youtube.com/watch?v=nvY1YtocpO0&list=PLlKTcxHFcdxuTbgHzaViO-Wj4kbDxZ6dA)
+- [Robot Reveal](https://photos.app.goo.gl/ay7ZZTgveWni5t4V6)
 - [Week 1 - Granite State Robot Photos](https://photos.app.goo.gl/1QBZ7ud22x4NL8QV6)
 - [Week 3 - North Shore (March 18-20)](https://photos.app.goo.gl/ACbkYg7yeHgawX3h8)
 - [Week 3 - North Shore Robot Photos](https://photos.app.goo.gl/HwGpq9xTDoKSrJQz5)
