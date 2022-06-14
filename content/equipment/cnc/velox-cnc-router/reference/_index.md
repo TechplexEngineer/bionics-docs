@@ -12,3 +12,4 @@ subpage: true
 - [Mach3_V3.x_Macro_Prog_Ref.pdf](Mach3_V3.x_Macro_Prog_Ref.pdf)
 - [MX4660hm_V1.1.pdf](MX4660hm_V1.1.pdf)
 - [OMIO_CNC_Router_x8_USB_User_Guide.pdf](OMIO_CNC_Router_x8_USB_User_Guide.pdf)
+- [delta-ms300-highspd-userman-21.pdf](delta-ms300-highspd-userman-21.pdf)
