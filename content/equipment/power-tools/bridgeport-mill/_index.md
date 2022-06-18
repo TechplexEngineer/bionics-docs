@@ -39,3 +39,5 @@ Milling machines use the rotational motion of a stationary cutter to remove mate
 
 ## Additional Resources
 - [Bridgeport Vertical Mill Manual](bridgeport-vertical-mill-manual.pdf)
+
+{{< youtube xrGTV9MnuyA >}}
