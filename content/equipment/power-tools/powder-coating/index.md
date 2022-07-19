@@ -23,6 +23,13 @@ Protect and beautify robot parts.
 ## Powder Sources
 - Prismatic Powders
 - Eastwood
+- Harbor Freight (White, Black)
+
+
+## Oven Size
+- Width: 23"
+- Height: 13"
+- Depth: 18" 
 
 
 {{< youtube "IFeMX1O6Epk" >}}
