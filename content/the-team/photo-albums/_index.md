@@ -14,13 +14,16 @@ description: Team Photo Albums and Match Videos
 - [Week 1 - Granite State Robot Photos](https://photos.app.goo.gl/1QBZ7ud22x4NL8QV6)
 - [Week 3 - North Shore (March 18-20)](https://photos.app.goo.gl/ACbkYg7yeHgawX3h8)
 - [Week 3 - North Shore Robot Photos](https://photos.app.goo.gl/HwGpq9xTDoKSrJQz5)
+- [Hype Video from New England FIRST](https://www.youtube.com/watch?v=JGqLZ0XBCoA)
 - [Week 4 - Greater Boston (March 25-27)](https://photos.app.goo.gl/49jAfxpLVwSujrGR8)
 - [Week 4 - Greater Boston Robot Photos](https://photos.app.goo.gl/J193CYVwvb8wmhni9)
-- [Week 7 - District Championship](https://photos.app.goo.gl/3TV7EdrWqe4yzMQ89)
+- [Week 4 - Greater Boston Photos by kmtenor]( https://kmtenor.smugmug.com/Robotics/FSC-NE-Greater-Boston-District-2022/) password: firstinspires
+- [Week 7 - District Championship - Calcium (Milk) Division](https://photos.app.goo.gl/3TV7EdrWqe4yzMQ89)
 - [Worlds Houston (April 12-17) Photos](https://photos.app.goo.gl/Fm3aWKjkKCJriq2n9)
 - [End of Season Banquet (May 24th)](https://photos.app.goo.gl/tmyZ4r2Q8bxAmWyi9)
 - [Battle Cry (June 4-5) Photos](https://photos.app.goo.gl/b41kZ1qScaQsCVqf8)
-- [Summer Heat](https://photos.app.goo.gl/zheqPCUjC5YAhNLt8) https://kmtenor.smugmug.com/Robotics/Summer-Heat-2022/ password: firstinspires
+- [Summer Heat](https://photos.app.goo.gl/zheqPCUjC5YAhNLt8) 
+- [Summer Heat - Photos by kmtenor](https://kmtenor.smugmug.com/Robotics/Summer-Heat-2022/) password: firstinspires
 - Battle of the Bay
 - River Rage
 - N.E.R.D. (New England Robotics Derby)
