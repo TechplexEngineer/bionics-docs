@@ -53,7 +53,12 @@ Our laser cutters have a maximum working area of 24" by 18"
 ### Preparing the file
 
 The laser will Cut any line that is exactly .001" wide, all others are engraved.
-These stes are done using a vector editing software called [Inkscape](https://inkscape.org/) which is free software.
+
+This tool will automatically convert all lines to .001" for cutting https://svg2laser.fly.dev/
+
+#### Manual Process
+{{< expand "Show Me..." >}}
+These steps are done using a vector editing software called [Inkscape](https://inkscape.org/) which is free software.
 
 {{% notice warning %}}
 Thick lines will be etched or engraved (it will use the "raster" settings on the laser). If you make a line 0.001 inches thick it will be cut out (it will use the "vector" settings on laser).
@@ -73,6 +78,7 @@ Leave Opacity at 100% and A at 225.
 3. **Leave space around your part**, cutting to the edge of the stock is not recommended. If the stock isn't aligned perfectly in the machine your part will have a misshapen edge.
 
 4. Save your file for printing on the laser by making it a PDF. `File > Save As > PDF` {{< expand "Explain..." >}}We have found that the laser requires a program which outputs proper postscript to accurately make the distinction between vector and raster. Printing from Inkscape does not seem to work. However Adobe products such as Acrobat Reader and Illustrator work well. {{< /expand >}}
+{{< /expand >}}
 
 {{% notice danger %}}
 The following steps assume you are on a computer connected to the laser
