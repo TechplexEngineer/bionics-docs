@@ -20,6 +20,7 @@ We have a number of shared use computers in the shop, donated by our generous sp
 * Prusa Slicer (3D Printers)
 * Inkscape (For Laser Cutter)
 * Adobe Reader (For Laser Cutter)
+* Blender (Animation + Video Editing)
 
 ### Software
 * WPI Lib Suite (VS Code, Shuffleboard, ...)
