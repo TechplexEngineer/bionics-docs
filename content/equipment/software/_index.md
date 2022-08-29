@@ -8,7 +8,7 @@ subpage: false
 alwaysopen: false
 ---
 
-We rely on may pieces of software to build our robots.
+We rely on many pieces of software to build our robots.
 
 ## Standard laptop image
 We have a number of shared use computers in the shop, donated by our generous sponsors. Below is a list of the software we keep in our base images for these computers.
