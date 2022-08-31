@@ -16,9 +16,9 @@ graph TD
     TEAM  --- TOL[Team Operations Lead]
     TOL   --- SAFETY[Safety Captain]
     TOL   --- COMM[Marketing/Communications]
-    TOL   --- MONEY[Treasurer]
     TOL   --- COMMUNITY[Outreach]
-    TOL   --- Awards[Awards]
+    TOL   --- Awards[Awards/Impact]
+    TOL   --- MONEY[Treasurer/Quartermaster]
 
 {{< /mermaid >}}
 
@@ -67,7 +67,7 @@ Responsibilities:
 1. Assist robot lead as needed and fill in when needed.
 
 
-## Subsystem Leads
+### Subsystem Leads
 The Subsystem Leads oversee a single robot subsystem (for example drivetrain, or shooter). A subsystem lead usually has at least one year of experience on the team. Subsystem Leads are often paired with at least one mentor who works alongside them "in the trenches" throughout the season.
 
 Responsibilities:
@@ -81,7 +81,7 @@ Responsibilities:
 1. Choose an award to focus on when writing materials for the engineering notebook.
 
 
-## Software Lead
+### Software Lead
 Software is what separates GOOD teams from GREAT teams. The software lead works closely with the build leads and electrical lead to understand how the robot will work, what motors and sensors are needed to achieve the goals. The software lead also works to balance development time between robot code and scouting system projects both need to be achieved with limited time and resources.
 
 Responsibilities:
