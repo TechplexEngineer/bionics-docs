@@ -27,13 +27,13 @@ Collaborators: Anuva, Ayati, Blake, Caleb, Chris, Dhvan, Luis, Peyton, Scott, Va
 
 ## Competitive
 
-### Proposed Competition Goals
+### Competition Goals
 1. Win a district event.
 1. Qualify for DCMP.
 1. Qualify for Champs.
 1. Achieve at least semi-finals in every competition.
 
-### Proposed Technical Goals
+### Technical Goals
 1. Locations for wiring, electronics, sensors are implemented into the mechanical design process and the design review and followed through with so that wires can be easily traced and will not be in danger of breaking or tearing out of electronics. 
 1. Implement a prototyping system during build season which allows for quick iteration and connects all subsystems together in order to get substantial feedback to what works, what should be better, and what needs to change.
 1. Code with consistent conventions and comments throughout code.
