@@ -82,6 +82,7 @@ description: Team Photo Albums and Match Videos
 - [NE District Championship](https://goo.gl/photos/LtQ7jN6CwBL2UScp6)
 - [Battle Cry 18](https://goo.gl/photos/oTRzQfD5htDNbUgJ8)
 - RiverRage 21
+- [Club Fair](https://photos.app.goo.gl/Ia44xIuFR4HbRcGA3)
 - [Battle of the Bay](https://photos.app.goo.gl/2A6cBbvVSZgLDbHG2)
 - [Hour of Code](https://goo.gl/photos/kGqE2fa2fwspLKRg6)
 - [Vining STEAM Night](https://goo.gl/photos/juuoj6CJoRCNaDkN7)
