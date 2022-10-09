@@ -9,6 +9,6 @@ Collaborators: Anuva, Ayati, Blake, Caleb, Chris, Dhvan, Luis, Peyton, Scott, Va
 
 2. Achieve **FINANCIAL FREEDOM** with a yearly budget of 100k which ensures all team members have access to events and ensure compromises are made based on their merit not financial limitation while enabling the program to grow with new technology and manufacturing capabilities.
 
-3. Build on the team's **COMPEDITIVE** track record by consistently qualifying for DCMP and Championships, consistently compete in finals at all attended district events and make it out of our division at DCMP.
+3. Build on the team's **COMPETITIVE** track record by consistently qualifying for DCMP and Championships, consistently compete in finals at all attended district events and make it out of our division at DCMP.
 
 4. **BUILDING OUR BRAND** to be a recognizable part of our school, our local community, and the FIRST community, by adopting a brand guide, designing the robot with a signature look, and hosting numerous yearly events, including an offseason competition.
