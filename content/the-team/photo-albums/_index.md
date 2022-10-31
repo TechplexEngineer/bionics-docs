@@ -22,11 +22,11 @@ description: Team Photo Albums and Match Videos
 - [Worlds Houston (April 12-17) Photos](https://photos.app.goo.gl/Fm3aWKjkKCJriq2n9)
 - [End of Season Banquet (May 24th)](https://photos.app.goo.gl/tmyZ4r2Q8bxAmWyi9)
 - [Battle Cry (June 4-5) Photos](https://photos.app.goo.gl/b41kZ1qScaQsCVqf8)
-- [Summer Heat](https://photos.app.goo.gl/zheqPCUjC5YAhNLt8) 
+- [Summer Heat - June 25](https://photos.app.goo.gl/zheqPCUjC5YAhNLt8) 
 - [Summer Heat - Photos by kmtenor](https://kmtenor.smugmug.com/Robotics/Summer-Heat-2022/) password: firstinspires
-- Battle of the Bay
-- River Rage
-- N.E.R.D. (New England Robotics Derby)
+- [N.E.R.D. (New England Robotics Derby) October 22](https://photos.app.goo.gl/6NTFZSb2hJMbyULn8)
+- [River Rage - October 29](https://photos.app.goo.gl/gS1uCBqBswRm6Vto9)
+- Battle of the Bay - November 5th
 - [Blue Alliance Page](https://www.thebluealliance.com/team/4909/2022)
 
 ## 2021 - Infinite Recharge v2
