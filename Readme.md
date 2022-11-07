@@ -31,3 +31,9 @@ hugo server
 ## Deploy
 The site is deployed with Netlify, with netlify CMS support.
 
+## Check for broken Links
+```bash
+muffet -i http://localhost:1313 -e http://localhost:1313/admin/\# http://localhost:1313/
+```
+Using: https://github.com/raviqqe/muffet
+

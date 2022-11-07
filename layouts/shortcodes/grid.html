@@ -1,5 +1,5 @@
 
-{{ $filter := default "photos/*" (.Get "filter") }}
+{{ $filter := default "*" (.Get "filter") }}
 {{ $items := $.Page.Resources.Match $filter }}
 
 
