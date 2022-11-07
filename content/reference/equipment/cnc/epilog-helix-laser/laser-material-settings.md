@@ -25,4 +25,5 @@ Wood                 |          |       |
 This table is an abreviated list. The complete list from the manufacturer is available here: [Laser material Settings][1]
 
 <!-- Source: https://www.epiloglaser.com/assets/downloads/legend-material-settings.pdf  -->
-[1]: {{< relref "laser-material-settings.pdf">}}
+[1]: ../laser-material-settings.pdf
+

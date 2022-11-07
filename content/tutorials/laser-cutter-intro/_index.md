@@ -98,7 +98,7 @@ The following steps assume you are on a computer connected to the laser
     - 4 - Set the Page size to match **stock size** (often 24" horizontal x 18" vertical)
     - Click OK
 
-Consult the [Laser Material Settings]({{< relref "epilog-helix-laser" >}}/laser-material-settings.pdf) or the abbreviated table below for our 60W, CO2 Laser determine your power, speed and frequency/DPI for your material. {{%excerpt-include filename="/equipment/cnc/epilog-helix-laser/laser-material-settings.md" /%}}
+Consult the [Laser Material Settings]({{< relref "epilog-helix-laser" >}}/laser-material-settings.pdf) or the abbreviated table below for our 60W, CO2 Laser determine your power, speed and frequency/DPI for your material. {{% excerpt-include filename="reference/equipment/cnc/epilog-helix-laser/laser-material-settings.md" %}}
 
 ### Power on, Load Material and Cut/Engrave
 5. Turn On the Laser, Air Assist and Fume Extraction

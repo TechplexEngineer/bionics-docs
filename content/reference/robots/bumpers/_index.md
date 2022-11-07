@@ -46,3 +46,11 @@ Didn't work great for us in 2022. Recommend using black VHB. Grey is not sticky 
 
 ## Reversable Bumpers
 {{< youtube BUDMB-aiBpo >}}
+
+
+# 6324 uses SailCloth
+- Blue https://www.sailrite.com/Dacron-Sailcloth-4oz-Dark-Blue-60
+- Red https://www.sailrite.com/Dacron-Sailcloth-4oz-Red-60
+- Numbers: https://www.sailrite.com/Dacron-6oz-Adhesive-Backed-White-54-Fabric
+
+Tape the white to cardboard or plywood, cut on laser. (6324 has a 90w and they use 5% power and 100% speed)
