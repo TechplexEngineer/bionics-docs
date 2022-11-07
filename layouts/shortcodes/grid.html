@@ -1,0 +1,18 @@
+
+{{ $filter := default "photos/*" (.Get "filter") }}
+{{ $items := $.Page.Resources.Match $filter }}
+
+
+<div class="row">
+  {{ range $items }}
+  <div class="col-md-3">
+    <div class="card" >
+      <img src="{{.}}" alt="{{.}}" class="m-0">
+      <div class="card-body">
+        <a href="{{.}}" target="_blank" class="stretched-link">{{.}}</a>
+      </div>
+    </div>
+    
+  </div>
+  {{ end }}
+</div>

@@ -1,0 +1,11 @@
+
+
+{{ $filter := default "*" (.Get "filter") }}
+<!-- Filter: {{$filter}} <br> -->
+{{ $items := $.Page.Resources.Match $filter }}
+
+<ul>
+{{ range $items }}
+<li><a href="{{.}}">{{.}}</a></li>
+{{ end }}
+</ul>
