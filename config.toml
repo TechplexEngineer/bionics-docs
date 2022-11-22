@@ -72,6 +72,12 @@ tabWidth = 2
 #
 # top menu shotcuts
 #
+
+[[menu.shortcuts]]
+name = "WPILib Docs"
+url = "https://docs.wpilib.org/"
+weight = 5
+
 [[menu.shortcuts]]
 name = "Team Github"
 identifier = "ds"
