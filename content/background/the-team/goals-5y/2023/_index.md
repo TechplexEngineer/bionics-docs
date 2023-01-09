@@ -16,7 +16,7 @@ Collaborators: Anuva, Ayati, Blake, Caleb, Chris, Dhvan, Luis, Peyton, Scott, Va
 ## Financial Freedom
 
 1. Fundraising Target $90k
-	- $60k Corporate Sponsorhsips
+	- $60k Corporate Sponsorships
 	- $10k Fundraisers
 	- $10k Friends of 4909
 	- $10k Offseason
