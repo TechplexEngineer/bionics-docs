@@ -11,7 +11,7 @@ Collaborators: Anuva, Ayati, Blake, Caleb, Chris, Dhvan, Luis, Peyton, Scott, Va
 1. Create a subteam to focus on Chairman's/Impact/EI and outreach early in the season and submit the Impact & EI Awards.
 1. Run and document 2 outreach events in our community.
 1. Develop an 8 week training plan over the summer to implement when school starts to build skills enabling faster design iterations.
-1. Reach out to 3 classrooms (eg. Physics, APCS, Business) in the fall to recruit new members to bring in 15 new advanced team members who are likely to stick with the team increasing our 
+1. Reach out to 3 classrooms (eg. Physics, APCS, Business) in the fall to recruit new members to bring in 15 new advanced team members who are likely to stick with the team increasing our retention.
 
 ## Financial Freedom
 
