@@ -44,4 +44,7 @@ Design for Assembly and Manufacture: every design is created and reviewed with t
 
 ## Building our Brand
 
-1. Complete a first iteration on branding materials such as a team Mascot, Flag, branding guide and team merchandise. Extend our branding into competitions through the use of our own offseason event and team spirit.
+1. Complete a branding guide which describes proper use of team logo.
+2. Design a new team mascot.
+3. Design and create a new team flag.
+4. Extend our brand into competitions by hosting an offseason event.
