@@ -11,12 +11,12 @@ Collaborators: Anuva, Ayati, Blake, Caleb, Chris, Dhvan, Luis, Peyton, Scott, Va
 1. Create a subteam to focus on Chairman's/Impact/EI and outreach early in the season and submit the Impact & EI Awards.
 1. Run and document 2 outreach events in our community.
 1. Develop an 8 week training plan over the summer to implement when school starts to build skills enabling faster design iterations.
-1. Reach out to 3 classrooms (eg. Physics, APCS, Business) in the fall to recruit new members to bring in 15 new advanced team members who are likely to stick with the team increasing our 
+1. Reach out to 3 classrooms (eg. Physics, APCS, Business) in the fall to recruit new members to bring in 15 new advanced team members who are likely to stick with the team increasing our retention.
 
 ## Financial Freedom
 
 1. Fundraising Target $90k
-	- $60k Corporate Sponsorhsips
+	- $60k Corporate Sponsorships
 	- $10k Fundraisers
 	- $10k Friends of 4909
 	- $10k Offseason
@@ -44,4 +44,7 @@ Design for Assembly and Manufacture: every design is created and reviewed with t
 
 ## Building our Brand
 
-1. Complete a first iteration on branding materials such as a team Mascot, Flag, branding guide and team merchandise. Extend our branding into competitions through the use of our own offseason event and team spirit.
+1. Complete a branding guide which describes proper use of team logo.
+2. Design a new team mascot.
+3. Design and create a new team flag.
+4. Extend our brand into competitions by hosting an offseason event.
