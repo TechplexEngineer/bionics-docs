@@ -3,6 +3,13 @@ title: Photo Albums & Media
 description: Team Photo Albums and Match Videos
 ---
 
+## 2023 - Charged Up
+- [Kickoff](https://photos.app.goo.gl/fazSbTd6xC9mUjUH8)
+- [Build Season](https://photos.app.goo.gl/UTuLgVLBTUybAdea7)
+	- [Game Piece Manipulaton Prototyping](https://photos.app.goo.gl/4j18YMkMCdiuTf3x5)
+- [WPI Practice Field](https://photos.app.goo.gl/FrSjqzoWYtQbat529)
+- [Week 0](https://photos.app.goo.gl/YubDLyu4qZSFDxxbA)
+- [Week 2 - RIDE (March 10-12)]
 ## 2022 - Rapid React
 - [Preseason](https://photos.app.goo.gl/mnXAjcovJr3xpLTQ7)
 - [Kickoff](https://photos.app.goo.gl/WmbH6nJRJBVJd8dK7)
@@ -26,7 +33,7 @@ description: Team Photo Albums and Match Videos
 - [Summer Heat - Photos by kmtenor](https://kmtenor.smugmug.com/Robotics/Summer-Heat-2022/) password: firstinspires
 - [N.E.R.D. (New England Robotics Derby) October 22](https://photos.app.goo.gl/6NTFZSb2hJMbyULn8)
 - [River Rage - October 29](https://photos.app.goo.gl/gS1uCBqBswRm6Vto9)
-- Battle of the Bay - November 5th
+- [Battle of the Bay - November 5th](https://docs.team4909.org/background/the-team/photo-albums/)
 - [Blue Alliance Page](https://www.thebluealliance.com/team/4909/2022)
 
 ## 2021 - Infinite Recharge v2
