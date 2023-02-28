@@ -8,7 +8,7 @@ description: How to save match footage from twitch streams
 
 	1. Create a file containing a list of URLs to be downloaded eg. [videos.txt](videos.txt)
 	2. Use `youtube-dl` or a more modern fork like `yt-dlp` to download each video 
-	{{< highlight bash>}}youtube-dl -a videos.txt -f 1080p --external-downloader axel{{</highlight>}}
+	{{< highlight bash>}}yt-dlp -a videos.txt -f 1080p --external-downloader axel{{</highlight>}}
 
 2. Join the downloaded files
 	
