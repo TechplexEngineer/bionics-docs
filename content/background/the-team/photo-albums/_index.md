@@ -13,7 +13,7 @@ description: Team Photo Albums and Match Videos
 - [Week 2 - RIDE (March 10-12)](https://photos.app.goo.gl/ET83EA5iXwqgtxGBA)
 - [Week 4 - Greater Boston (March 24 - 26)](https://photos.app.goo.gl/QnT7Fygc5LXkdqE49)
 - [District Championship](https://photos.app.goo.gl/EZp3JTD6SN9ZnKKd8)
-- [World CHampionship](https://photos.app.goo.gl/gojxxHcmpHy3ptZF6)
+- [World Championship](https://photos.app.goo.gl/gojxxHcmpHy3ptZF6)
 ## 2022 - Rapid React
 - [Preseason](https://photos.app.goo.gl/mnXAjcovJr3xpLTQ7)
 - [Kickoff](https://photos.app.goo.gl/WmbH6nJRJBVJd8dK7)
