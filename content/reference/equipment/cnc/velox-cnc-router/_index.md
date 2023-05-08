@@ -25,3 +25,4 @@ date: 2021-05-10T13:29:34.714Z
 ## Additional Resources
 
 * [Vendor Product Page](https://www.veloxcncrouters.com/5050-cnc-router-4x4)
+* [Photos](https://photos.app.goo.gl/5VNPCHa8E35CVY867)
