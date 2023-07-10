@@ -9,7 +9,11 @@ description: Team Photo Albums and Match Videos
 	- [Game Piece Manipulaton Prototyping](https://photos.app.goo.gl/4j18YMkMCdiuTf3x5)
 - [WPI Practice Field](https://photos.app.goo.gl/FrSjqzoWYtQbat529)
 - [Week 0](https://photos.app.goo.gl/YubDLyu4qZSFDxxbA)
-- [Week 2 - RIDE (March 10-12)]
+- [Robot Reveal](https://photos.app.goo.gl/ET83EA5iXwqgtxGBA)
+- [Week 2 - RIDE (March 10-12)](https://photos.app.goo.gl/ET83EA5iXwqgtxGBA)
+- [Week 4 - Greater Boston (March 24 - 26)](https://photos.app.goo.gl/QnT7Fygc5LXkdqE49)
+- [District Championship](https://photos.app.goo.gl/EZp3JTD6SN9ZnKKd8)
+- [World Championship](https://photos.app.goo.gl/gojxxHcmpHy3ptZF6)
 ## 2022 - Rapid React
 - [Preseason](https://photos.app.goo.gl/mnXAjcovJr3xpLTQ7)
 - [Kickoff](https://photos.app.goo.gl/WmbH6nJRJBVJd8dK7)
