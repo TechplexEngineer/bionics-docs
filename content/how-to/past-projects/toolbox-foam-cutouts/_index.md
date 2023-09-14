@@ -1,52 +1,44 @@
 ---
 title: Toolbox Foam Cutouts
-description: How to Make precise cutouts for toolbox organization 
-# weight: 40
+description: How to Make precise cutouts for toolbox organization
+date: 2023-07-10T15:23:10.965Z
 ---
+T﻿he steps below describe a manual process that worked for us for a number of our toolbox drawers. We've added a few more drawers since the below process was developed and found https://shadowbox.tools/ which streamlined the process. We had the best results with the [Paper Trace](https://shadowbox.tools/products/papertrace) method. We have also been recommended [Took Kaiser](https://www.toolkaiser.com/) but have not used it for a drawer yet.
 
-01. Start by making a rough layout
-{{< img "01_rough_layout.jpg" "400" >}}
-
-
-02. Take photos of each of the tools, ensure you have plenty of contrast
-{{< columns >}} 
-{{< img "02_deadblow_lg.jpg" >}}
-<--->
-{{< img "02_deadblow_sm.jpg" >}}
-<--->
-{{< img "02_hammer.jpg" >}}
-<--->
-{{< img "02_mallet.jpg" >}}
-{{< /columns >}}
-
-03. Measure the longest axis of each tool so we can properly scale the images later
-{{< img "03_length.jpg" "400" >}}
-
-04. To remove the background, open image in paint3d
-{{< img "04_open_in_paint3d.png" "400" >}}
-
-05. Use the Magic Select tool, drag the handles to remove as much background as possible
-{{< img "05_shrink_to_solid_bg.png" "400" >}}
-
-06. If you need to refine the selection, Use the Pencil and Eraser to mark parts to keep and parts to remove respectively.
-{{< img "06_use_pencil_eraser_to_refine.png" "400" >}}
-
-07. Copy the tool selection and paste in Inkscape. Repeat for all tools, create a layout matching your rough layout from step 1.
-{{< img "07_layout_in_inkscape.svg" "400" >}}
-
-08. Use the Width and Height toolbar in Inkscape to ensure your tool is the proper size using the measurements from earlier. Be sure to click the lock icon to ensure the with and height aspect ratio is maintained.
-{{< img "08a_resize.png" >}}
-
-08. Use Inkscape's bitmap trace function to convert the tools to vector paths.
-{{< img "08_bitmap_trace_menu.png" "400">}}
+1. Start by making a rough layout
+   {{< img "01_rough_layout.jpg" "400" >}}
+2. Take photos of each of the tools, ensure you have plenty of contrast
+   {{< columns >}} 
+   {{< img "02_deadblow_lg.jpg" >}}
+   <--->
+   {{< img "02_deadblow_sm.jpg" >}}
+   <--->
+   {{< img "02_hammer.jpg" >}}
+   <--->
+   {{< img "02_mallet.jpg" >}}
+   {{< /columns >}}
+3. Measure the longest axis of each tool so we can properly scale the images later
+   {{< img "03_length.jpg" "400" >}}
+4. To remove the background, open image in paint3d
+   {{< img "04_open_in_paint3d.png" "400" >}}
+5. Use the Magic Select tool, drag the handles to remove as much background as possible
+   {{< img "05_shrink_to_solid_bg.png" "400" >}}
+6. If you need to refine the selection, Use the Pencil and Eraser to mark parts to keep and parts to remove respectively.
+   {{< img "06_use_pencil_eraser_to_refine.png" "400" >}}
+7. Copy the tool selection and paste in Inkscape. Repeat for all tools, create a layout matching your rough layout from step 1.
+   {{< img "07_layout_in_inkscape.svg" "400" >}}
+8. Use the Width and Height toolbar in Inkscape to ensure your tool is the proper size using the measurements from earlier. Be sure to click the lock icon to ensure the with and height aspect ratio is maintained.
+   {{< img "08a_resize.png" >}}
+9. Use Inkscape's bitmap trace function to convert the tools to vector paths.
+   {{< img "08_bitmap_trace_menu.png" "400">}}
 
 We've found that the Brightness cutoff with a threshold of .92 or higher works well. If you go too high the results are not as good.
 {{< img "08_bitmap_trace_dialog.png" "400">}}
 
 Once you have traced each image, it is safe to delete the original image.
 
-09. The trace tool may leave sharp edges or other imperfections that we need to remove. We'll simplify the generated path to make it easier to work with. Select each tool outline and use the simplify option.
-{{< img "09_simplify_menu.png" "400">}}
+9. The trace tool may leave sharp edges or other imperfections that we need to remove. We'll simplify the generated path to make it easier to work with. Select each tool outline and use the simplify option.
+   {{< img "09_simplify_menu.png" "400">}}
 
 {{< img "09_simplify.svg" "400" >}}
 
@@ -63,25 +55,26 @@ Use the rectangle tool to create a rectangle across a convenient area to grasp t
 {{< img "11_rectangle.svg" "400">}}
 
 12. We added a chamfer to the rectangle for astethic reasons.
-{{< img "11_path_effect_chamfer.png" "400">}}
-{{< img "12_rounded_rectangle.svg" "400">}}
-
+    {{< img "11_path_effect_chamfer.png" "400">}}
+    {{< img "12_rounded_rectangle.svg" "400">}}
 13. Combine the individual paths into a single path using the union tool
-{{< img "13_union_paths.png" "400">}}
-
+    {{< img "13_union_paths.png" "400">}}
 14. Remove fill for cutting
-- Make sure the path is selected, then
-- From the `Object` menu choose  `Fill and Stroke`
-- Choose `No paint`
-{{< img "14_choose_no_fill.png" "400" >}}
+
+* Make sure the path is selected, then
+* From the `Object` menu choose  `Fill and Stroke`
+* Choose `No paint`
+  {{< img "14_choose_no_fill.png" "400" >}}
 
 15. For our Epilog laser we need a stroke width of .001" for cutting
-- From the `Stroke Style` tab change the width unit to `in` and change the width to `.001`
-- At this point it may look like your drawing is missing, but the lines are too thin to render unless you zoom in.
-{{< img "14_stroke_width.png" "400">}}
+
+* From the `Stroke Style` tab change the width unit to `in` and change the width to `.001`
+* At this point it may look like your drawing is missing, but the lines are too thin to render unless you zoom in.
+  {{< img "14_stroke_width.png" "400">}}
 
 16. Export for cutting
-- Choose File > Save As...
-- Be sure to choose PDF
 
-17. [Cut it!]({{< relref "laser-cutter-intro" >}}/#preparing-the-file)
+* Choose File > Save As...
+* Be sure to choose PDF
+
+17. \[Cut it!]({{< relref "laser-cutter-intro" >}}/#preparing-the-file)
