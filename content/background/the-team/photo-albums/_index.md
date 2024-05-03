@@ -3,6 +3,18 @@ title: Photo Albums & Media
 description: Team Photo Albums and Match Videos
 ---
 
+## 2024 - Crescendo
+[Build Season](https://photos.app.goo.gl/jS7RZBqNwCyVts4E7)
+[Week 0 - Preseason](https://photos.app.goo.gl/SDemsChgNjVgfcMx5)
+[Week 1 - GSD](https://photos.app.goo.gl/ah6oRUN7ij3avrRf9)
+[Week 2 - BSU](https://photos.app.goo.gl/V1b4xJhEwWTCYVWs7)
+[Week 3 - URI](https://photos.app.goo.gl/UKBvzUmPfrjLcTuH7)
+[Week 6 - DCMP](https://photos.app.goo.gl/z6M2C3JgAtSZKtcx9)
+[Week 8 - Worlds](https://photos.app.goo.gl/JpVywCS6NH8ZYbon8)
+[Robot Reveal](https://photos.app.goo.gl/XvvpFxgTkFNW21n96)
+[Robot Progression](https://photos.app.goo.gl/3ZnxP8NCGFxvGBYW9)
+[Dutile Elementary PResntation](https://photos.app.goo.gl/XEgceyZ2X7BC27rg6)
+
 ## 2023 - Charged Up
 - [Kickoff](https://photos.app.goo.gl/fazSbTd6xC9mUjUH8)
 - [Build Season](https://photos.app.goo.gl/UTuLgVLBTUybAdea7)
@@ -12,8 +24,10 @@ description: Team Photo Albums and Match Videos
 - [Robot Reveal](https://photos.app.goo.gl/ET83EA5iXwqgtxGBA)
 - [Week 2 - RIDE (March 10-12)](https://photos.app.goo.gl/ET83EA5iXwqgtxGBA)
 - [Week 4 - Greater Boston (March 24 - 26)](https://photos.app.goo.gl/QnT7Fygc5LXkdqE49)
+- [Week 4 - Greater Boston (March 24 - 26) by Kevin](https://www.myshotphotography.com/Robotics/FRC-NE-Greater-Boston-Event-2023) password: firstinspires
 - [District Championship](https://photos.app.goo.gl/EZp3JTD6SN9ZnKKd8)
 - [World Championship](https://photos.app.goo.gl/gojxxHcmpHy3ptZF6)
+- [World Championship by Kevin](https://www.myshotphotography.com/Robotics/FRC-World-Championships) password: firstinspires
 ## 2022 - Rapid React
 - [Preseason](https://photos.app.goo.gl/mnXAjcovJr3xpLTQ7)
 - [Kickoff](https://photos.app.goo.gl/WmbH6nJRJBVJd8dK7)
