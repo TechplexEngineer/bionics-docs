@@ -4,16 +4,16 @@ description: Team Photo Albums and Match Videos
 ---
 
 ## 2024 - Crescendo
-[Build Season](https://photos.app.goo.gl/jS7RZBqNwCyVts4E7)
-[Week 0 - Preseason](https://photos.app.goo.gl/SDemsChgNjVgfcMx5)
-[Week 1 - GSD](https://photos.app.goo.gl/ah6oRUN7ij3avrRf9)
-[Week 2 - BSU](https://photos.app.goo.gl/V1b4xJhEwWTCYVWs7)
-[Week 3 - URI](https://photos.app.goo.gl/UKBvzUmPfrjLcTuH7)
-[Week 6 - DCMP](https://photos.app.goo.gl/z6M2C3JgAtSZKtcx9)
-[Week 8 - Worlds](https://photos.app.goo.gl/JpVywCS6NH8ZYbon8)
-[Robot Reveal](https://photos.app.goo.gl/XvvpFxgTkFNW21n96)
-[Robot Progression](https://photos.app.goo.gl/3ZnxP8NCGFxvGBYW9)
-[Dutile Elementary PResntation](https://photos.app.goo.gl/XEgceyZ2X7BC27rg6)
+- [Build Season](https://photos.app.goo.gl/jS7RZBqNwCyVts4E7)
+- [Week 0 - Preseason](https://photos.app.goo.gl/SDemsChgNjVgfcMx5)
+- [Week 1 - GSD](https://photos.app.goo.gl/ah6oRUN7ij3avrRf9)
+- [Week 2 - BSU](https://photos.app.goo.gl/V1b4xJhEwWTCYVWs7)
+- [Week 3 - URI](https://photos.app.goo.gl/UKBvzUmPfrjLcTuH7)
+- [Week 6 - DCMP](https://photos.app.goo.gl/z6M2C3JgAtSZKtcx9)
+- [Week 8 - Worlds](https://photos.app.goo.gl/JpVywCS6NH8ZYbon8)
+- [Robot Reveal](https://photos.app.goo.gl/XvvpFxgTkFNW21n96)
+- [Robot Progression](https://photos.app.goo.gl/3ZnxP8NCGFxvGBYW9)
+- [Dutile Elementary PResntation](https://photos.app.goo.gl/XEgceyZ2X7BC27rg6)
 
 ## 2023 - Charged Up
 - [Kickoff](https://photos.app.goo.gl/fazSbTd6xC9mUjUH8)
