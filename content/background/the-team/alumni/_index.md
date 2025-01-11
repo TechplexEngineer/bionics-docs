@@ -9,13 +9,51 @@ Team 4909 has Alumni with a wide range of goals from being an astronaut to eleme
 
 ### **M﻿ichael D.**
 
+* U﻿Mass Lowell
+* Mechanical Engineering
+
 ### **H﻿era L.**
+
+* M﻿echanical Engineering
 
 ### **J﻿acqueline B.**
 
-### **D﻿hvan P.**
+* U﻿niversity of Rochester
+* Biomedical Engineering
+
+### **D﻿hvan S.**
+
+* O﻿lin College of Engineering
+* M﻿echanical Engineering
 
 ### **M﻿ihir P.**
+
+* N﻿ortheastern University
+* C﻿omputer Science and Physics
+
+### **V﻿anathi S.**
+
+* U﻿niversity of Kentucky
+* M﻿echanical Engineering
+
+### **Y﻿ash P.**
+
+* U﻿Mass Amherst
+* M﻿echanical Engineering
+
+### A﻿yati B.
+
+* U﻿Mass Amherst
+
+### N﻿athan C.
+
+* S﻿alem State
+* C﻿omputer Science
+
+### N﻿athan Y.
+
+* U﻿Mass Amherst
+* B﻿usiness
 
 ## **2﻿023 - Charged Up**
 
