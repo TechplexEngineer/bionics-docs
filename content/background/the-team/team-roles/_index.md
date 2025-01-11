@@ -1,6 +1,7 @@
 ---
 title: Student Leadership Roles
 description: Who is responsible for activities when not at competitions.
+date: 2025-01-11T00:04:34.935Z
 ---
 Leadership roles are mentor assigned with input from the team via a secret ballot poll. The mentors work to make the best selections for the success of the team. The mentors take many aspects into account, including attendance from the prior season.
 
@@ -14,11 +15,8 @@ graph TD
     RL   --- SWL[Software Lead]
 
     TEAM  --- TOL[Team Operations Lead]
-    TOL   --- SAFETY[Safety Captain]
     TOL   --- COMM[Marketing/Communications]
-    TOL   --- COMMUNITY[Outreach]
     TOL   --- Awards[Awards/Impact]
-    TOL   --- MONEY[Treasurer/Quartermaster]
 
 {{< /mermaid >}}
 
