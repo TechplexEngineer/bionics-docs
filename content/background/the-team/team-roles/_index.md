@@ -99,12 +99,13 @@ Responsibilities:
 1. Ensure we have a killer business plan and coordinate its presentation to judges at events.
 1. Keep Lead Mentor on schedule for sending out corporate sponsorship.
 
-
-### Outreach
+### Marketing & Communications
 
 Responsibilities:
-1. Ensure outreach events are organized and manage logistics.
-### Awards/Impact
+1. Ensure events are documented and promotional recap videos created.
+1. Foster team culture of document events
+1. Keep sponsors updated with weekly updates during the build season.
+1. School newsletter and TV advertising slides for recruiting events and competitions.
 
 Responsibilities:
 1. Coordinate efforts for the Impact(Chairman's) award (Presentation, Materials, etc).
