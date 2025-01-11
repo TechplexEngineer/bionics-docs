@@ -57,6 +57,26 @@ Team 4909 has Alumni with a wide range of goals from being an astronaut to eleme
 
 ## **2﻿023 - Charged Up**
 
+### K﻿aran Rana
+
+* U﻿CONN
+* R﻿obotics Engineering & Math
+
+### A﻿nuva Agrawal
+
+* G﻿eorgia Tech
+* M﻿echanical Engineering
+
+### C﻿raig Fiorno
+
+* U﻿Mass Lowell
+* M﻿echanical Engineering
+
+### I﻿shaan Patel
+
+* W﻿PI
+* C﻿omputer Science & RObotics Engineering
+
 ## 2022 - Rapid React
 
 ### Alex I.
