@@ -99,21 +99,6 @@ Responsibilities:
 1. Ensure we have a killer business plan and coordinate its presentation to judges at events.
 1. Keep Lead Mentor on schedule for sending out corporate sponsorship.
 
-### Safety Captain
-
-Responsibilities:
-1. Ensures safety binder is up to date
-1. Encourages and builds safety culture within the team
-1. Helps coordinate tool training in the preseason with assistance from mentors.
-1. Presents Shop safety procedures to the team in preseason.
-
-### Marketing & Communications
-
-Responsibilities:
-1. Ensure events are documented and promotional recap videos created.
-1. Foster team culture of document events
-1. Keep sponsors updated with weekly updates during the build season.
-1. School newsletter and TV advertising slides for recruiting events and competitions.
 
 ### Outreach
 
@@ -125,10 +110,5 @@ Responsibilities:
 1. Coordinate efforts for the Impact(Chairman's) award (Presentation, Materials, etc).
 1. Coordinate efforts for Engineering Inspiration.
 
-### Treasurer/Quartermaster
-
-Responsibilities:
-1. Inventory, help keep track of what we have and what we need to purchase to build the robot, including parts and tools.   
-1. Financial Freedom, keep track of finances help coordinate Friends of 4909 and other fundraisers.
 
 
