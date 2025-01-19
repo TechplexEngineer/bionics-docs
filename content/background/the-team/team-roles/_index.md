@@ -1,6 +1,7 @@
 ---
 title: Student Leadership Roles
 description: Who is responsible for activities when not at competitions.
+date: 2025-01-11T00:04:34.935Z
 ---
 Leadership roles are mentor assigned with input from the team via a secret ballot poll. The mentors work to make the best selections for the success of the team. The mentors take many aspects into account, including attendance from the prior season.
 
@@ -14,11 +15,8 @@ graph TD
     RL   --- SWL[Software Lead]
 
     TEAM  --- TOL[Team Operations Lead]
-    TOL   --- SAFETY[Safety Captain]
     TOL   --- COMM[Marketing/Communications]
-    TOL   --- COMMUNITY[Outreach]
     TOL   --- Awards[Awards/Impact]
-    TOL   --- MONEY[Treasurer/Quartermaster]
 
 {{< /mermaid >}}
 
@@ -101,14 +99,6 @@ Responsibilities:
 1. Ensure we have a killer business plan and coordinate its presentation to judges at events.
 1. Keep Lead Mentor on schedule for sending out corporate sponsorship.
 
-### Safety Captain
-
-Responsibilities:
-1. Ensures safety binder is up to date
-1. Encourages and builds safety culture within the team
-1. Helps coordinate tool training in the preseason with assistance from mentors.
-1. Presents Shop safety procedures to the team in preseason.
-
 ### Marketing & Communications
 
 Responsibilities:
@@ -117,20 +107,9 @@ Responsibilities:
 1. Keep sponsors updated with weekly updates during the build season.
 1. School newsletter and TV advertising slides for recruiting events and competitions.
 
-### Outreach
-
-Responsibilities:
-1. Ensure outreach events are organized and manage logistics.
-### Awards/Impact
-
 Responsibilities:
 1. Coordinate efforts for the Impact(Chairman's) award (Presentation, Materials, etc).
 1. Coordinate efforts for Engineering Inspiration.
 
-### Treasurer/Quartermaster
-
-Responsibilities:
-1. Inventory, help keep track of what we have and what we need to purchase to build the robot, including parts and tools.   
-1. Financial Freedom, keep track of finances help coordinate Friends of 4909 and other fundraisers.
 
 
