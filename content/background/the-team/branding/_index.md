@@ -36,3 +36,10 @@ Font: JAF Mashine Semibold https://fonts.adobe.com/fonts/jaf-mashine
 - [SVG Download](4909.svg)
 - [PNG Download](4909.png)
 - [PDF Download](4909.pdf)
+
+## White on Transparent
+![](Logo_white_on_transparent.png)
+
+- [SVG Download](Logo_white_on_transparent.svg)
+- [PNG Download](Logo_white_on_transparent.png)
+- [PDF Download](Logo_white_on_transparent.pdf)
