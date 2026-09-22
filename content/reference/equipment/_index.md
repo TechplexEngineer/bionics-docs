@@ -19,4 +19,4 @@ We are very fortunate to have advanced machining and manufacturing capabilities.
 
 ## Our Equipment
 
-{{% children description="true" %}}
+{{<children description="true">}}{{</children>}}

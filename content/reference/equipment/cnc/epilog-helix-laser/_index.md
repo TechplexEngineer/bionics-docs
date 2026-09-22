@@ -36,7 +36,7 @@ NOTE: PVC MAY **NOT** BE CUT ON THE LASER. Poisonous Chlorine gas is produced.
 Here is an abreviated list of the manufacturer recommended settings for various materials. A more complete list can be found in 
 [Laser material Settings][2]
 
-{{% excerpt-include filename="reference/equipment/cnc/epilog-helix-laser/laser-material-settings.md" %}}
+{{< excerpt-include filename="reference/equipment/cnc/epilog-helix-laser/laser-material-settings.md" />}}
 
 ## Additional Resources
 - [Vendor Product Page][1]

@@ -1,0 +1,30 @@
+{{- template "pageBlock" dict "name" .name "page" .context -}}
+{{- template "siteBlock" dict "name" .name "page" .context "tip" .tip -}}
+
+{{- define "siteBlock" -}}
+  {{- $path := printf "_layout/%s/_index.%s.md" .name .page.Lang -}}
+  {{- $found := false -}}
+  {{- range .page.Site.Pages -}}
+    {{- if and .File (eq .File.BaseFileName $path) -}}
+      {{- $found = true -}}
+      {{ .Content }}
+    {{- end -}}
+  {{- end -}}
+  {{- if not $found -}}
+    {{- $path = printf "_layout/%s/_index.md" .name -}}
+    {{- with .page.Site.GetPage (print .name ".md") -}}
+      {{ .Content }}
+    {{- else -}}
+      {{ safeHTML .tip }}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+
+{{- define "pageBlock" -}}
+  {{- with .page.File -}}
+    {{- $path := printf "%s__%s.md" .Dir $.name -}}
+    {{- with $.page.Site.GetPage $path -}}
+      {{ .Content }}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
